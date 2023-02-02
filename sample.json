@@ -1,0 +1,8 @@
+{
+    "Listings":[
+        {"listing":"L1", "address":"123 kings road", "date":2020},
+        {"listing":"L2", "address":"20 queen road", "date":1990 },
+        {"listing":"L3", "address":"20 queen road", "date":1992},
+        {"listing":"L4", "address":"123 kings road", "date":2022}
+    ]
+}
